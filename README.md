@@ -59,7 +59,7 @@ Getting Started (DIY):
 
 This project is a first version, and I'm always open to ideas for improvement!
 
-![20250904_231259](https://github.com/user-attachments/assets/44f1031e-f5cb-42d6-90b9-fb21723d6e91)
+![485863850-44f1031e-f5cb-42d6-90b9-fb21723d6e91](https://github.com/user-attachments/assets/cb9eb155-82e9-4fae-81e2-286d73b2d0ad)
 
 
 I hope this Crypto Sentiment Analyzer v1 will be as useful to you as it is to me. Forget your phone and let the ESP32 do the work!
