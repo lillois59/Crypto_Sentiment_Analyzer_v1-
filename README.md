@@ -45,7 +45,7 @@ External APIs: CoinMarketCap (for prices), CryptoPanic (for sentiment)
 
 Getting Started (DIY)
 
-Clone the repository: git clone [URL_OF_YOUR_REPO]
+Clone the repository: git clone https://github.com/lillois59/Crypto_Sentiment_Analyzer_v1-.git
 
 Install the Libraries: Make sure you have all the libraries listed above installed in your Arduino IDE.
 
