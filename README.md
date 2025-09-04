@@ -33,7 +33,7 @@ TFT Display: All this data is beautifully rendered on a color TFT screen, includ
 Smart Management: The system handles WiFi disconnections, API errors, and update delays to ensure a smooth and reliable experience.
 
 Here is a schematic of the architecture to better understand the flow:
-<img width="800" height="700" alt="Gemini_Generated_Image_k6hawok6hawok6ha" src="https://github.com/user-attachments/assets/fad98300-e784-4748-918c-5a53898e5bf9" />
+<img width="700" height="700" alt="Gemini_Generated_Image_k6hawok6hawok6ha" src="https://github.com/user-attachments/assets/fad98300-e784-4748-918c-5a53898e5bf9" />
 
 Technologies Used
 
@@ -43,19 +43,19 @@ Arduino Libraries: WiFi, WiFiClientSecure, HTTPClient, ArduinoJson, TFT_eSPI
 
 External APIs: CoinMarketCap (for prices), CryptoPanic (for sentiment)
 
-Getting Started (DIY)
+Getting Started (DIY):
 
-Clone the repository: git clone https://github.com/lillois59/Crypto_Sentiment_Analyzer_v1-.git
+1: Clone the repository: git clone https://github.com/lillois59/Crypto_Sentiment_Analyzer_v1-.git
 
-Install the Libraries: Make sure you have all the libraries listed above installed in your Arduino IDE.
+2: Open main.cpp in vscode and lauch platform.io 
 
-Configure your API Keys: Replace cmcApiKey and cryptoPanicApiKey with your own API keys in main.cpp.
+3: in main.cpp Configure your API Keys: Replace cmcApiKey and cryptoPanicApiKey with your own API keys in main.cpp. Configure WiFi: Update the ssid and password with your network credentials.
 
-Configure WiFi: Update the ssid and password with your network credentials.
+4: Install the Libraries by build main.cpp using vscode 
 
-Upload the Code: Upload the code to your ESP32.
+5: upload on your CYD-2USB aka Marauder esp32 by @Espressif
 
-Contributions
+<img width="700" height="700" alt="Gemini_Generated_Image_tohje0tohje0tohj" src="https://github.com/user-attachments/assets/bfc8b576-57eb-491d-aba3-816584780402" />
 
 This project is a first version, and I'm always open to ideas for improvement!
 
